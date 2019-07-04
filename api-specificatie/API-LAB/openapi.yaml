@@ -137,7 +137,7 @@ paths:
           schema:
             type: string
             maxLength: 200
-            example: Vries
+            example: Vries            
         - in: query
           name: verblijfplaats__naamopenbareruimte
           description: "Een door het bevoegde gemeentelijke orgaan aan een OPENBARE RUIMTE toegekende benaming **Gebruik van de wildcard is toegestaan. Zie [feature-beschrijving](https://github.com/VNG-Realisatie/Bevragingen-ingeschreven-personen/blob/master/features/wildcard.feature)** **Zoeken met tekstvelden is [case-Insensitive](https://github.com/VNG-Realisatie/Bevragingen-ingeschreven-personen/blob/master/features/case_insensitive.feature).** Zie verder de toelichting in de BAG. Tekens gecodeerd volgens de UTF-8 standaard"
